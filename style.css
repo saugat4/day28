@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 200px;
+}
+img{
+    height: 300px;
+    width: 300px;
+
+}
+.img1:hover{
+    #p1{
+        opacity: 1;
+    }
+}
+.img2:hover{
+    #p2{
+        opacity: 1;
+    }
+}
